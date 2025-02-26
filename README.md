@@ -1,4 +1,4 @@
-# amna 控制台官网
+# amna 新控制台官网 NP
 
 [建议保存](https://github.com/amnalink/np)
  网址URL 右边按钮点击可复制  
